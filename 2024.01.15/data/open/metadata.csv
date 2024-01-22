@@ -1,0 +1,16 @@
+,DataType,NA
+ID,PK,False
+대출금액,Continuous,False
+대출기간,Ordinal,False
+근로기간,Ordinal,False
+주택소유상태,Nominal,False
+연간소득,Continuous,False
+부채_대비_소득_비율,Continuous,False
+총계좌수,Descrete,False
+대출목적,Nominal,False
+최근_2년간_연체_횟수,Descrete,False
+총상환원금,Continuous,False
+총상환이자,Continuous,False
+총연체금액,Continuous,False
+연체계좌수,Descrete,False
+대출등급,Target,False
