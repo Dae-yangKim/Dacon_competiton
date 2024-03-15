@@ -1,0 +1,24 @@
+,index,dtype,nunique,NA,,,index,dtype,nunique,NA,,데이터 타입
+0,ID,object,20000,0,,0,ID,object,10000,0,,기본키
+1,Age,int64,91,0,,1,Age,int64,91,0,,순서형
+2,Gender,object,2,0,,2,Gender,object,2,0,,명목형
+3,Education_Status,object,17,0,,3,Education_Status,object,17,0,,명목형
+4,Employment_Status,object,8,0,,4,Employment_Status,object,8,0,,명목형
+5,Working_Week (Yearly),int64,53,0,,5,Working_Week (Yearly),int64,53,0,,순서형
+6,Industry_Status,object,24,0,,6,Industry_Status,object,24,0,,명목형
+7,Occupation_Status,object,15,0,,7,Occupation_Status,object,15,0,,명목형
+8,Race,object,5,0,,8,Race,object,5,0,,명목형
+9,Hispanic_Origin,object,10,0,,9,Hispanic_Origin,object,10,0,,명목형
+10,Martial_Status,object,7,0,,10,Martial_Status,object,7,0,,명목형
+11,Household_Status,object,31,0,,11,Household_Status,object,27,1,,명목형
+12,Household_Summary,object,8,0,,12,Household_Summary,object,8,0,,명목형
+13,Citizenship,object,5,0,,13,Citizenship,object,5,0,,명목형
+14,Birth_Country,object,43,0,,14,Birth_Country,object,42,0,,명목형
+15,Birth_Country (Father),object,43,0,,15,Birth_Country (Father),object,42,0,,명목형
+16,Birth_Country (Mother),object,43,0,,16,Birth_Country (Mother),object,43,0,,명목형
+17,Tax_Status,object,6,0,,17,Tax_Status,object,6,0,,명목형
+18,Gains,int64,106,0,,18,Gains,int64,92,0,,비율형
+19,Losses,int64,86,0,,19,Losses,int64,57,0,,비율형
+20,Dividends,int64,420,0,,20,Dividends,int64,280,0,,비율형
+21,Income_Status,object,3,0,,21,Income_Status,object,3,0,,순서형
+22,Income,int64,1228,0,종속 변수,,,,,,,
